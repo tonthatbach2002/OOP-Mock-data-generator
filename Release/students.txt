@@ -1,0 +1,75 @@
+Student: 2127831 - Tran Huu Minh
+    GPA=7.30, Telephone=0909-888-773
+    Email=thminh@student.hcmus.edu.vn
+    DOB=17/12/2003
+    Address=8 Nguyen Dinh Chieu, Ward 5, District 3, Ho Chi Minh city
+Student: 2127832 - Nguyen Dieu Linh
+    GPA=9.22, Telephone=0912-351-718
+    Email=thminh@student.hcmus.edu.vn
+    DOB=23/09/2003
+    Address=22 Ngo Thoi Nhiem, Ward 2, District 1, Ho Chi Minh city 
+Student: 2127833 - Ngo Thoi Chanh
+    GPA=8.12, Telephone=0977-161-237
+    Email=ntchanh@student.hcmus.edu.vn
+    DOB=12/06/2003
+    Address=8 Binh Long, Binh Hung Hoa Ward, Bin Tan District, Ho Chi Minh city
+Student: 2127255 - Tran Tuan Phuoc
+    GPA=6.47, Telephone=0903-869-444
+    Email=ttphuoc@gmail.com
+    DOB=27/3/2003
+    Address=91A Truong Sa, Binh Hung Hoa Ward, Hai Ba Trung DisTrict, Da Nang City
+Student: 2127274 - Phan Nhat Duong
+    GPA=5.37, Telephone=0919-964-242
+    Email=pnduong@student.hcmus.edu.vn
+    DOB=17/8/2003
+    Address=1 Nguyen Anh Thu, Quan Thanh Ward, DisTrict 5, Can Tho City
+Student: 2127410 - Tran Nhat Quan
+    GPA=8.43, Telephone=0792-821-760
+    Email=tnquan@yahoo.com
+    DOB=26/3/2003
+    Address=6D Nguyen Anh Thu, Tan Hung Ward, DisTrict , Ha Noi City
+Student: 2127303 - Le Gia Khai
+    GPA=6.48, Telephone=0906-634-769
+    Email=lgkhai@yahoo.com
+    DOB=5/4/2003
+    Address=729 Tran Hung Dao, Quan Thanh Ward, Cu Chi DisTrict, Ha Noi City
+Student: 2127716 - Le Nhu Phuoc
+    GPA=5.08, Telephone=0792-326-982
+    Email=lnphuoc@gmail.com
+    DOB=4/12/2003
+    Address=68 Phan Van Tri, Tan Hung Thuan Ward, DisTrict 7, Phan Thiet City
+Student: 2127328 - Nguyen Tuan Tuyen
+    GPA=5.16, Telephone=0792-935-781
+    Email=nttuyen@yahoo.com
+    DOB=6/1/2003
+    Address=4A Nguyen Anh Thu, Ward 9, Binh Chanh DisTrict, Da Nang City
+Student: 2127700 - Phan Gia Phuoc
+    GPA=8.63, Telephone=0792-254-400
+    Email=pgphuoc@student.hcmus.edu.vn
+    DOB=12/2/2003
+    Address=68 Nguyen Hue, Ward 6, Binh Chanh DisTrict, Phan Thiet City
+Student: 2127567 - Phan Nhat Khai
+    GPA=8.18, Telephone=0919-258-869
+    Email=pnkhai@yahoo.com
+    DOB=3/1/2003
+    Address=552 Quang Trung, Ward 12, Hoc Mon DisTrict, Da Nang City
+Student: 2127378 - Le Nhu Quan
+    GPA=7.24, Telephone=0361-399-525
+    Email=lnquan@yahoo.com
+    DOB=30/1/2003
+    Address=423 Quang Trung, Tan Dinh Ward, DisTrict 12, Can Tho City
+Student: 2127393 - Tran Nhu Duong
+    GPA=5.22, Telephone=0906-961-329
+    Email=tnduong@gmail.com
+    DOB=31/10/2003
+    Address=1A Phan Van Tri, Ward 5, Hai Ba Trung DisTrict, Ha Noi City
+Student: 2127723 - Le Nhu Tuyen
+    GPA=7.47, Telephone=0361-560-762
+    Email=lntuyen@microsoft.com
+    DOB=18/7/2003
+    Address=54B Tran Hung Dao, Ward 5, DisTrict 7, Phan Thiet City
+Student: 2127483 - Truong Nhu Quan
+    GPA=5.04, Telephone=0792-537-716
+    Email=tnquan@yahoo.com
+    DOB=8/8/2003
+    Address=54B Phan Van Tri, Thoi Tam Ward, Hai Ba Trung DisTrict, Ho Chi Minh City
